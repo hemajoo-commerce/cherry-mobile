@@ -1,1 +1,1 @@
-# cherry-ui-mobile
+# cherry-mobile
